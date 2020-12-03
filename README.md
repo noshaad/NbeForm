@@ -1,5 +1,5 @@
 # NbeForm
-<p>Just a simple form validator</p>
+<p>Just a simple form validator just remember jquery.input.mask is a must use thing here</p>
 <h1>Documention </h1>
 <b>For requiring Input:</b><br />
 	<p>just add <b>nbeReq</b> to the input (as attribute)</p>
